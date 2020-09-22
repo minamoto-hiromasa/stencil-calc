@@ -1,1 +1,0 @@
-import{p,b as t}from"./p-75bdc318.js";(()=>{const t=import.meta.url,n={};return""!==t&&(n.resourcesUrl=new URL(".",t).href),p(n)})().then(p=>t([["p-ef56194c",[[1,"ks-calc",{input:[1],_input:[32]}]]],["p-2f072b94",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],p));
